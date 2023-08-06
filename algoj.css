@@ -29,6 +29,12 @@ h1.title {
     display: none;
 }
 
+.btn {
+    background-color: #D1055B;
+    border: 1px solid var(--border-color);
+    border-radius: 2px;
+}
+
 aside.menu header {
     display: flex;
     align-items: center;
@@ -44,5 +50,3 @@ aside.menu header:before {
     background-size: 100px 70px;
     background-repeat: no-repeat;
 }
-
-

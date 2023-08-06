@@ -5,7 +5,7 @@ links_origin: ""
 nodes_online: ""
 links_online: ""
 images_origin: ""
-export_target: "./export/"
+export_target: "C:\Users\oledeuff\projetgit\cosma-algoJ\export"
 history: false
 focus_max: 2
 record_types:
